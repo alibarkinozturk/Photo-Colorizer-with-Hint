@@ -1,0 +1,8 @@
+gradio==5.34.1
+numpy==1.26.4
+opencv-python==4.11.0.86
+pillow==10.4.0
+torch==2.6.0
+fastai==2.7.19
+cloudpathlib==0.21.1
+huggingface_hub
